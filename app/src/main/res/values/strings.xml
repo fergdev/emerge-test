@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestEmerge</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_error">There was an error logging in.</string>
+    <string name="movies_app">Movies App</string>
+    <string name="logout">logout</string>
+    <string name="popular">Popular</string>
+    <string name="favourites">Favourites</string>
+    <string name="loading_movies_error">There was an error loading the movies</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="enter_username">Please enter user name</string>
+    <string name="enter_password">Please enter password</string>
+    <string name="no_movies">There are no movies on this list</string>
+</resources>
